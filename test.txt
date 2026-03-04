@@ -1,0 +1,15 @@
+Makefile
+fichier.txt
+jobs.c
+jobs.h
+jobs.o
+main.c
+main.o
+minishell
+minishell.c
+signal_handler.c
+signal_handler.h
+signal_handler.o
+test
+test.txt
+test1
